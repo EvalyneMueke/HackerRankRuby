@@ -1,4 +1,14 @@
 # Solution accepted in  hackerRank
+# BDD =>Have different outputs for different personel
+
+#PSEUDOCODE
+#start 
+#define different classes of personel
+#pass the output when each class is passed as an input
+#Return the output depending on class
+#stop
+
+
 class Hacker
 end
 class Submission
